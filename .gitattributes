@@ -1,0 +1,12 @@
+# Keep Dart visible
+*.dart linguist-detectable=true
+
+# Ignore generated / boilerplate so HTML/others don't dominate
+build/** linguist-vendored
+web/**   linguist-vendored
+**/*.g.dart        linguist-generated
+**/*.freezed.dart  linguist-generated
+
+# Optional: ignore platform boilerplate (uncomment if you don't edit these)
+# android/** linguist-vendored
+# ios/**     linguist-vendored
