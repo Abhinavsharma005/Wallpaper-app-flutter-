@@ -1,16 +1,17 @@
-# wallpaper_app
+📱 wallpaper_app
 
-A new Flutter project.
+Here’s what the app can do:
 
-## Getting Started
+🔍 Browse high-quality wallpapers
 
-This project is a starting point for a Flutter application.
+🖼 Pexels API Integration: Fetches real-time trending and curated wallpapers.
 
-A few resources to get you started if this is your first Flutter project:
+📥 Directly set wallpapers from inside the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎨 Clean, minimal, and user-friendly experience
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tech I worked with:
+
+✅ Flutter + Dart
+✅ Pexels API for fetching wallpapers
+✅ HTTP & JSON – API data handling
